@@ -1,5 +1,10 @@
-<img width="436" height="176" alt="bfbbd81b6f4d8733718149c1eea11232" src="https://github.com/user-attachments/assets/0a3f5d38-fa3a-46ff-b30a-7a8c73849c88" />
+<img width="1128" height="240" alt="resultado_testes_pytest_recortado" src="https://github.com/user-attachments/assets/f5b0117d-3a4b-47dd-acb8-7cb1ccf978ea" />
+## Resultados dos testes
 
+Os testes automatizados foram executados com Pytest,
+validando as consultas de reservas e os identificadores.
+
+![Resultado dos testes com Pytest](caminho-da-imagem.png)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange?style=flat&logo=requests&logoColor=white)

@@ -18,15 +18,16 @@ Verificar se as operações de consulta, criação, atualização e exclusão de
 - **Pytest** — execução e organização dos testes automatizados.
 - **Requests** — envio de requisições HTTP para a API.
 - **Git e GitHub** — versionamento e hospedagem do projeto.
+- **GitHub Actions** — execução automática dos testes por integração contínua (CI).
 
-## Cenários automatizados
+## Cenários de testes
 
-- Consulta de reservas.
-- Validação dos identificadores das reservas.
-- Consulta de uma reserva inexistente.
-- Criação de uma reserva.
-- Atualização de uma reserva.
-- Exclusão de uma reserva.
+Consulta de reservas (GET).
+Validação dos identificadores das reservas.
+Consulta de uma reserva inexistente.
+Criação de uma reserva (POST).
+Atualização de uma reserva (PUT).
+Exclusão de uma reserva (DELETE).
 
 ## Execução dos testes: Pytest
 

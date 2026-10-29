@@ -22,14 +22,15 @@ Verificar se as operações de consulta, criação, atualização e exclusão de
 
 ## Cenários de testes
 
-Consulta de reservas (GET).
-Validação dos identificadores das reservas.
-Consulta de uma reserva inexistente.
-Criação de uma reserva (POST).
-Atualização de uma reserva (PUT).
-Exclusão de uma reserva (DELETE).
+- Consulta de reservas (GET).
+- Validação dos identificadores das reservas.
+- Consulta de uma reserva inexistente.
+- Criação de uma reserva (POST).
+- Atualização de uma reserva (PUT).
+- Exclusão de uma reserva (DELETE).
 
-## Execução dos testes: Pytest
+## **Execução dos testes:** 
+Pytest
 
 ## Como executar o projeto
 

@@ -6,11 +6,11 @@
 
 # Sobre o projeto: Automação de Testes de API REST
 
-Este projeto tem como objetivo praticar a automação de testes de APIs REST utilizando Python. Os testes verificam diferentes operações de uma API de reservas, validando códigos de resposta, dados retornados e o comportamento dos principais endpoints.
+Este projeto consiste na automação de testes de uma API REST de reservas, verificando o comportamento dos endpoints, os códigos de resposta HTTP e a estrutura dos dados retornados.
 
 ## Objetivo
 
-Validar o funcionamento de uma API de reservas, verificando códigos de resposta HTTP, estrutura dos dados retornados e identificadores das reservas.
+Verificar se as operações de consulta, criação, atualização e exclusão de reservas funcionam conforme esperado, incluindo a validação dos identificadores e das respostas da API.
 
 ## Tecnologias utilizadas
 

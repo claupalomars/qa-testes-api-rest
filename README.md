@@ -1,4 +1,4 @@
-<img width="720" height="663" alt="videoframe_19009" src="https://github.com/user-attachments/assets/3e9da5f3-eec1-4a61-a231-9ebf0898a340" />
+<img width="436" height="176" alt="bfbbd81b6f4d8733718149c1eea11232" src="https://github.com/user-attachments/assets/0a3f5d38-fa3a-46ff-b30a-7a8c73849c88" />
 
 # Automação de Testes de API REST
 

@@ -4,11 +4,11 @@
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange?style=flat&logo=requests&logoColor=white)
 
-# Sobre o projeto: Automação de Testes de API REST
+# 	📌 Sobre o projeto: Automação de Testes de API REST
 
 Este projeto consiste na automação de testes de uma API REST de reservas, verificando o comportamento dos endpoints, os códigos de resposta HTTP e a estrutura dos dados retornados.
 
-## Objetivo
+##	🎯 Objetivo
 
 Verificar se as operações de consulta, criação, atualização e exclusão de reservas funcionam conforme esperado, incluindo a validação dos identificadores e das respostas da API.
 

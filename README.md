@@ -4,9 +4,9 @@
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-orange?style=flat&logo=requests&logoColor=white)
 
-# Automação de Testes de API REST
+# Sobre o projeto: Automação de Testes de API REST
 
-Projeto de portfólio voltado à automação de testes de API REST, utilizando Python, Pytest e Requests.
+Este projeto tem como objetivo praticar a automação de testes de APIs REST utilizando Python. Os testes verificam diferentes operações de uma API de reservas, validando códigos de resposta, dados retornados e o comportamento dos principais endpoints.
 
 ## Objetivo
 
@@ -19,12 +19,16 @@ Validar o funcionamento de uma API de reservas, verificando códigos de resposta
 - **Requests** — envio de requisições HTTP para a API.
 - **Git e GitHub** — versionamento e hospedagem do projeto.
 
-## Cenários de teste
+## Cenários automatizados
 
 - Consulta de reservas.
-- Validação do código HTTP 200.
-- Verificação do formato da resposta JSON.
 - Validação dos identificadores das reservas.
+- Consulta de uma reserva inexistente.
+- Criação de uma reserva.
+- Atualização de uma reserva.
+- Exclusão de uma reserva.
+
+## Execução dos testes: Pytest
 
 ## Como executar o projeto
 

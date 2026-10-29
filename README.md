@@ -62,8 +62,9 @@ python -m pytest
 
 A API é pública e compartilhada. Sua disponibilidade e seus dados podem variar durante a execução dos testes.
 
-## Próximas melhorias
+## 🚀 Melhorias futuras
 
-- Testes de criação, atualização e exclusão de reservas.
-- Validação de cenários negativos.
-- Integração contínua com GitHub Actions.
+- Ampliar a cobertura dos testes com cenários negativos.
+- Adicionar validações mais detalhadas das respostas da API.
+- Gerar relatórios HTML com os resultados dos testes.
+- Melhorar a organização e a reutilização do código de testes.

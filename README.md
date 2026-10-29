@@ -1,3 +1,4 @@
+<img width="720" height="1280" alt="videoframe_19009" src="https://github.com/user-attachments/assets/15e1726b-1196-47c3-853c-9dd448b2990c" />
 
 # Automação de Testes de API REST
 

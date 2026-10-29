@@ -28,3 +28,10 @@ def test_reservas_possuem_identificador():
     for reserva in reservas:
         assert "bookingid" in reserva
         assert isinstance(reserva["bookingid"], int)
+
+def test_consultar_reserva_inexistente():
+    url = f"{BASE_URL}/booking/999999999"
+
+    resposta = requests.get(url, timeout=30)
+
+    assert resposta.status_code == 404

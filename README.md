@@ -29,8 +29,9 @@ Verificar se as operações de consulta, criação, atualização e exclusão de
 - Atualização de uma reserva (PUT).
 - Exclusão de uma reserva (DELETE).
 
-## **Execução dos testes:** 
-Pytest
+## Execução dos testes
+
+Os testes automatizados são executados com **Pytest**.
 
 ## Como executar o projeto
 
